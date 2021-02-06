@@ -1,5 +1,5 @@
 # Clone Netflix
-<img src="img/logo.png">
+<img src="img/img-projeto">
 
 Esse é um projeto desenvolvido para o Bootcamp Avanade Fullstack Developer
 
